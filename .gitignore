@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+
+# Release signing — never commit these
+keystore.properties
+*.jks
+*.keystore
+
+/app/build/
+/app/google-services.json

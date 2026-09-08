@@ -1,0 +1,11 @@
+<resources>
+    <!--
+        This is only the platform "window" theme (status bar color, window background while
+        Compose is still cold-starting). All real UI theming - colors, typography, etc. - lives
+        in ui/theme/Theme.kt (Game2048Theme) and is applied via Material 3 in Compose.
+    -->
+    <style name="Theme.Game2048" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="android:windowBackground">@color/status_bar_color</item>
+    </style>
+</resources>

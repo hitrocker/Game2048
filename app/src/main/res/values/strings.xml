@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score_label">SCORE</string>
+    <string name="best_label">BEST</string>
+    <string name="restart_button">New Game</string>
+    <string name="instructions">Swipe to move the tiles. When two tiles with the same number touch, they merge into one!</string>
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_message">No more moves available.</string>
+    <string name="win_title">You Win!</string>
+    <string name="win_message">You created the %1$d tile!</string>
+    <string name="keep_going_button">Keep Going</string>
+    <string name="settings_label">Settings</string>
+    <string name="home_label">Home</string>
+    <string name="undo_label">Undo</string>
+    <string name="new_game_confirm_title">New Game?</string>
+    <string name="new_game_confirm_message">Start a new game? Your current progress will be lost.</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="leaderboard_label">Leaderboard</string>
+    <string name="how_to_play_label">How to play</string>
+    <string name="back_label">Back</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="sign_out_button">Sign out</string>
+    <string name="edit_name_label">Edit name</string>
+    <string name="player_name_title">Your name</string>
+    <string name="player_name_hint">Shown on the leaderboard</string>
+    <string name="save_button">Save</string>
+    <string name="leaderboard_empty">No scores yet. Be the first!</string>
+    <string name="leaderboard_error">Couldn\'t load the leaderboard. Check your connection.</string>
+    <string name="retry_button">Retry</string>
+</resources>
